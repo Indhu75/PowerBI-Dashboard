@@ -1,0 +1,1 @@
+A task management dashboard in Power BI provides a comprehensive overview of tasks, projects, and their progress within an organization or team.Key Compenents are Task Overview, Task Status, Task Priority, Task Completion percentage, Pending percentage, Task Timeline Etc.,
